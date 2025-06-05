@@ -46,12 +46,6 @@ To create a business-friendly, interactive dashboard that allows non-technical u
 
 ---
 
-## Preview
-
-> Add screenshots of your Power BI dashboard here for a visual reference.
-
----
-
 ## How to Use
 
 1. Open the `.pbix` file in Power BI Desktop.
